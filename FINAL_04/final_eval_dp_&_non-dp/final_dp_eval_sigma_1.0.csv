@@ -1,0 +1,7 @@
+Metric,Value
+Loss,3823.0983
+Accuracy,0.9
+Precision,0.3333
+Recall,0.4706
+F1-Score,0.3902
+Auc,0.701
